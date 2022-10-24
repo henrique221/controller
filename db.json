@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "test': {
+  "test": {
     "name": "controller"
   }
 }
